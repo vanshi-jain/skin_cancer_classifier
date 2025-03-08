@@ -1,1 +1,3 @@
-# skin_cancer_classifier
+# Skin Cancer Binary Classifier
+
+(Link to original dataset)[]
