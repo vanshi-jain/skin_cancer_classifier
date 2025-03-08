@@ -6,11 +6,11 @@ This repository contains a deep learning-based binary classifier for detecting s
 
 [Original dataset](https://d4h9zj04.na1.hs-sales-engage.com/Ctc/L1+23284/d4H9ZJ04/JlF2-6qcW8wLKSR6lZ3q4V5X7nm6KjQpcW8znnn58l8tL8W6Z7vJs77kHCTW5VWxff4z9182W5RHlXW5Dbj3JW2hdT7B2hCN44W88-KsZ2-C8l7W5fF5Fz61JG_KVxtBHr4wwydbW5PQ1W46mZT77N1JCcXKM9vzZW2-ZG8956_dnlN10s68GV9JJjW2Dtmmy3RnDCSW5KvHXw2NtYWrW2-cD2n5tYfzxVfcr1s28btp6Vrvsv46Zvd_WW2bNBhf8r81cYVQRgHk7XhxDsW2gsV7z38pN3dW8GP86B8dH_cqW6J7VP75gbR5-W93cDQ781jRgpW8fmNBw1-dDt_W6SbRfy2lmdPGVFMjdk7N7bd7W8GWCkT6_DjtCf7DrSj-04)
 
-[Updated train dataset](https://drive.google.com/drive/folders/1Ncs4iVggUj6jYuzvpCHKJD9G_KPy6i3A?usp=sharing)
+[Updated train dataset](https://drive.google.com/drive/folders/1Ncs4iVggUj6jYuzvpCHKJD9G_KPy6i3A?usp=drive_link)
 
-[Updated test dataset](https://drive.google.com/drive/folders/1ue9FWiTtxMWSal0eLehFYK5Lh5vtLI8N?usp=drive_link)
+[Updated test dataset](https://drive.google.com/drive/folders/1ue9FWiTtxMWSal0eLehFYK5Lh5vtLI8N?usp=sharing)
 
-[Fine-tuned models](https://drive.google.com/drive/folders/1a0vIs98jVATxSJ8FrqTujBRrWIZunzsF?usp=drive_link)
+[Fine-tuned models](https://drive.google.com/drive/folders/1a0vIs98jVATxSJ8FrqTujBRrWIZunzsF?usp=sharing)
 
 ## Installation  
 
@@ -38,7 +38,7 @@ Improve dataset quality by detecting and correcting common issues:
 - Normalizes the image using **mean and standard deviation**.  
 - Loads the corresponding **labels**.  
 - Handles **batching, shuffling, and efficient loading**.  
-- **Use `color_trans` dataset** for faster processing.  
+- **Use `color_trans` dataset** to skip pre-processing steps.  
 
 ### 4️⃣ Model Selection  
 We evaluate several CNN-based models and choose the best performers:  
